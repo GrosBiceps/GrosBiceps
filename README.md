@@ -24,11 +24,6 @@ Reach me at: https://portoflio-florianm.vercel.app/
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrosBiceps&layout=compact&theme=tokyonight&hide_border=true" />
-
-<!-- GitHub Stats avec rank -->
-<img src="https://github-readme-stats.vercel.app/api?username=GrosBiceps&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 ### Featured Projects
 
