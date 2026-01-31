@@ -12,25 +12,6 @@ Reach me at: https://portoflio-florianm.vercel.app/
 
 ---
 
-### What I Do
-
-```python
-class Florian:
-    def __init__(self):
-        self.role = "Pharmacy Student"
-        self.code = ["Python", "R", "TypeScript", "VBA"]
-        self.interests = ["Immunogenetics", "Flow Cytometry", "Molecular Docking", "ML"]
-        self.current_focus = "Multi-omics survival prediction models"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together")
-
-me = Florian()
-me.say_hi()
-```
-
----
-
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,29 +33,5 @@ me.say_hi()
 | [PyMutViewer](https://github.com/GrosBiceps/PyMutViewer) | 3D protein variant visualization desktop app |
 | [PyCytoTrainer](https://github.com/GrosBiceps/PyCytotrainer) | Deep learning cell identification trainer |
 | [HLA Bibliometric](https://grosbiceps.github.io/Renal-HLA-Bibliometric/) | Interactive research network dashboard |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrosBiceps&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrosBiceps&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="150"/>
-</p>
-
-<p align="center">
-  <i>When the code finally compiles...</i>
-</p>
-
----
 
 **If you find my projects useful, consider giving them a star!**
